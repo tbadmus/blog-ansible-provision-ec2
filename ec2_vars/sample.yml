@@ -1,5 +1,5 @@
 ec2_keypair: "newer-key"
-ec2_security_group: "test-sg"
+ec2_security_group: "sg-f4babe84"
 ec2_instance_type: "t2.small"
 ec2_image: "ami-6869aa05"
 ec2_subnet_ids: ['subnet-5a2d3612','subnet-97124ccd','subnet-bf527793']
